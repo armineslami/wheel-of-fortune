@@ -1,6 +1,6 @@
 {
   "name": "@armin-eslami/wheel-of-fortune",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wheel of fortune component made by react.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
